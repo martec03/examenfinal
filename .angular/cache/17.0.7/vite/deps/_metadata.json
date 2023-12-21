@@ -1,0 +1,50 @@
+{
+  "hash": "0b85fc22",
+  "browserHash": "a00b4a63",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "b3789ef7",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "d9b2435d",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "d118afed",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "fddfd6db",
+      "needsInterop": false
+    },
+    "dexie": {
+      "src": "../../../../../node_modules/dexie/dist/modern/dexie.mjs",
+      "file": "dexie.js",
+      "fileHash": "ec0031d0",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-6HSFX47K": {
+      "file": "chunk-6HSFX47K.js"
+    },
+    "chunk-IVNZMZ3K": {
+      "file": "chunk-IVNZMZ3K.js"
+    },
+    "chunk-HLVCKU5Z": {
+      "file": "chunk-HLVCKU5Z.js"
+    },
+    "chunk-HSNDBVJ3": {
+      "file": "chunk-HSNDBVJ3.js"
+    }
+  }
+}
